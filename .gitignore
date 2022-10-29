@@ -1,0 +1,6 @@
+# Editors
+/.idea
+/.vscode
+
+# Byte-compiled
+__pycache__/
